@@ -1,8 +1,8 @@
-Behavioral Cloning
+# Behavioral Cloning
 
-Model Architecture and Training Strategy
+## Model Architecture and Training Strategy
 
-1. Solution Design Approach
+### 1. Solution Design Approach
 
 
 My first step was to use a convolution neural network model similar to the network from NVIDIA. I thought this model might be appropriate because their neural net should do almost the same.
