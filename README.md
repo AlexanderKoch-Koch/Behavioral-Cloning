@@ -25,14 +25,14 @@ The final model architecture (model.py lines 18-24) consisted of a convolution n
 |Type | Input |
 |:---------------------:|:---------------------------------------------:| 
 |Lambda | 60x60x3|
-|Convolution ||60x60x3 |
-|Convolution ||28x28x24 |
-|Convolution ||11x11x36 |
-|Convolution ||3x3x48 |
-|Dense ||100 |
-|Dense ||50 |
-|Dense ||10 |
-|Dense ||1 |
+|Convolution |60x60x3 |
+|Convolution |28x28x24 |
+|Convolution |11x11x36 |
+|Convolution |3x3x48 |
+|Dense |100 |
+|Dense |50 |
+|Dense |10 |
+|Dense |1 |
 
 
 
